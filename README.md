@@ -478,7 +478,4 @@ Out of scope for this assignment. In production, you'd add OAuth2 or API key mid
 dleware.                                                                        
 ---
 
-## AI Tool Disclosure
 
-This project was built with assistance from **Claude (Anthropic)**. Claude was u
-sed to scaffold the project structure, generate boilerplate, and draft the Postman collection and README. All SQL queries, schema decisions, state machine logic, and idempotency strategy were reviewed, validated, and refined by the author.
